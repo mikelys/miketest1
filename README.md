@@ -1,4 +1,3 @@
 # hello-world
-just
-test
-and add new words
+Test git and save my first file.
+
